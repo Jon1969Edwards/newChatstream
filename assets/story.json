@@ -1,0 +1,242 @@
+[
+
+    {
+        "story": "initial story",
+        "image": "",
+        "text": "Can the player log in the game...</strong>",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "01",
+        "image": "",
+        "text":  "does the player want to remove the Application",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+   
+    {
+        "story": "02",
+        "image": "",
+        "text":  "is the recovery code available",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "03",
+        "image": "",
+        "text":  "This is a test for button3 #1",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "04",
+        "image": "",
+        "text":  "does the player want to remove the Application 4",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "05",
+        "image": "",
+        "text":  "does the player want to remove the Application 5",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "011",
+        "image": "",
+        "text":  "recommend a supportcase provide the supporcase link",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "012",
+        "image": "",
+        "text":  "request the supporcase information for the ticket",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "013",
+        "image": "",
+        "text":  "This is a test for button3 #2",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "021",
+        "image": "",
+        "text":  "provide supportcase  help.",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "022",
+        "image": "",
+        "text":  "guide through the reset process",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "023",
+        "image": "",
+        "text":  "This is a test for button3 #3",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "0111",
+        "image": "",
+        "text":  "E-Pocket sucessfully removed ?",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0112",
+        "image": "",
+        "text":  "ask if more help is needed.",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0113",
+        "image": "",
+        "text":  "This is a test for button3 #4",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "0121",
+        "image": "",
+        "text":  "appologize, recommend to wait for support answer",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0122",
+        "image": "",
+        "text":  "finsih the chat friendly",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0123",
+        "image": "",
+        "text":  "This is a test for button3 #5",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "0211",
+        "image": "",
+        "text":  "11",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0212",
+        "image": "",
+        "text":  "12",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0213",
+        "image": "",
+        "text":  "This is a test for button3 #6",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    },
+
+    {
+        "story": "0221",
+        "image": "",
+        "text":  "13",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0222",
+        "image": "",
+        "text":  "14",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe",
+        "display": ""
+    },
+
+    {
+        "story": "0223",
+        "image": "",
+        "text":  "This is a test for button3 #7",
+        "button1": "Yes",
+        "button2": "No",
+        "button3": "Maybe?",
+        "display": ""
+    }
+]
